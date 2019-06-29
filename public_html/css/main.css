@@ -387,7 +387,7 @@ footer ul{
 }
 
 .banner-links{
-    background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0, 153, 204,1)),url("../img/links.jpeg");
+    background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(0, 153, 204,1)),url("../img/links.jpg");
     background-repeat: no-repeat;
     background-position: center; 
     height: 300px;
