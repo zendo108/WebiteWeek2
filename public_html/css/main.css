@@ -423,6 +423,9 @@ footer ul{
   .jumbotron p{
       font-size: 1rem!important;
   }
+  .card h5 {
+      font-size: 1.2rem!important;
+  }
 }
 
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
@@ -432,5 +435,8 @@ footer ul{
   }
   .jumbotron p{
       font-size: .5rem!important;
+  }
+  .card h5 {
+      font-size: 1rem!important;
   }
 }
