@@ -2,8 +2,10 @@ var footer = '<footer class="footer">'+
 '            <div class="container">'+
 '                <div class="row">'+
 '                  <div class="col-sm-4">'+
+'                  <address>'+
 '                    <h6>Contact</h6>'+
-'                    <p class=" text-info">Ivan Aranda ivan@allelectricalwork.com</p>'+
+'                    <p class=" text-info">Ivan Aranda <br>ivan@allelectricalwork.com</p>'+
+'                  </address>'+
 '                  </div>'+
 '                  <div class="col-sm-4">'+
 '                    <h6>External Links</h6>'+
