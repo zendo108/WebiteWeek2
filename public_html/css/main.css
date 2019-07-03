@@ -431,10 +431,10 @@ footer ul{
 /* If the screen size is 600px wide or less, set the font-size of <div> to 30px */
 @media screen and (max-width: 600px) {
   .jumbotron h1 {
-    font-size: 1rem!important;
+    font-size: 1.4rem!important;
   }
   .jumbotron p{
-      font-size: .5rem!important;
+      font-size: .8rem!important;
   }
   .card h5 {
       font-size: 1rem!important;
